@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Restprüfer {
 	public static void main(String[] args) {
 		//EINGABE
-		//TEST
 		double teiler, prüfZahl;
 		Scanner sc = new Scanner (System.in);
 		
