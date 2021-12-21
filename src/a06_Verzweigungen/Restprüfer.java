@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Restprüfer {
 	public static void main(String[] args) {
 		//EINGABE
-		double teiler, prüfZahl, ergebniss;
+		double teiler, prüfZahl;
 		Scanner sc = new Scanner (System.in);
 		
 		System.out.print("Bitte die zu prüfende Zahl eingeben:\t");

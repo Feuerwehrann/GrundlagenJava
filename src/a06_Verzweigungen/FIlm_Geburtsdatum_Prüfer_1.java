@@ -26,6 +26,7 @@ public class FIlm_Geburtsdatum_Prüfer_1 {
 			System.out.println("Der Film darf nicht ausgeliehen werden!");
 
 		}
+		sc.close();
 		
 
 	}
@@ -34,4 +35,5 @@ public class FIlm_Geburtsdatum_Prüfer_1 {
 			LocalDate currentDate) {
 		return Period.between(birthDate, currentDate).getYears();
 	}
+
 }

@@ -52,7 +52,7 @@ public class Film_Geburtsdatum_Prüfer {
 		
 		
 		
-		
+		sc.close();
 		
 
 	}
