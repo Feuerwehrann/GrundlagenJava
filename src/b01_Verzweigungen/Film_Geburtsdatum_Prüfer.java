@@ -1,4 +1,4 @@
-package a06_Verzweigungen;
+package b01_Verzweigungen;
 
 import java.util.Date;
 import java.util.Scanner;
